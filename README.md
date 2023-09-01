@@ -18,14 +18,11 @@
 <br/>
 
 ## 팀원 👥
-| 이름   | 역할                  |
-| ------ | --------------------- |
-| 강다은 | FrontEnd & Mobile     |
-| 노창현 👑 | BackEnd & Infra       |
-| 박진희 | FrontEnd & Design     |
-| 이동주 | FrontEnd & AI         |
-| 이하린 | BackEnd & Mobile      |
-| 최동우 | BackEnd & AI          |
+|   **Name**   |               노창현👑                 |                강다은                |                  박진희                   |               이동주                |                 이하린                  |               최동우                |
+| :----------: | :-----------------------------------: | :----------------------------------: | :---------------------------------------: | :---------------------------------: | :-------------------------------------: | :---------------------------------: |
+| **Profile**  |  <img src="https://avatars.githubusercontent.com/u/116616569?v=4" width="100" height="100"/>   |  <img src="https://avatars.githubusercontent.com/u/69593799?v=4" width="100" height="100"/>  |    <img src="https://avatars.githubusercontent.com/u/122415844?v=4" width="100" height="100"/>     | <img src="https://avatars.githubusercontent.com/u/82428892?v=4" width="100" height="100"/>  |   <img src="https://avatars.githubusercontent.com/u/62701446?v=4" width="100" height="100"/>    | <img src="https://avatars.githubusercontent.com/u/122415763?v=4" width="100" height="100"/>  |
+| **Position** |          BackEnd <br> Infra           |          FrontEnd <br> Mobile           |           FrontEnd <br> Design           |        Frontend <br> AI         |            BackEnd <br> Mobile             |         Backend <br> AI         |
+|   **Git**    | [GitHub](https://github.com/stubborngastropod) | [GitHub](https://github.com/da010228) | [GitHub](https://github.com/sokurii) | [GitHub](https://github.com/emoving) | [GitHub](https://github.com/harinplz) | [GitHub](https://github.com/woodong27) |
 
 <br/>
 
