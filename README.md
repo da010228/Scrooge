@@ -18,134 +18,13 @@
 <br/>
 
 ## 팀원 👥
-| 이름   | 역할                  |
-| ------ | --------------------- |
-| 강다은 | FrontEnd & Mobile     |
-| 노창현 👑 | BackEnd & Infra       |
-| 박진희 | FrontEnd & Design     |
-| 이동주 | FrontEnd & AI         |
-| 이하린 | BackEnd & Mobile      |
-| 최동우 | BackEnd & AI          |
+|   **Name**   |               노창현👑                 |                강다은                |                  박진희                   |               이동주                |                 이하린                  |               최동우                |
+| :----------: | :-----------------------------------: | :----------------------------------: | :---------------------------------------: | :---------------------------------: | :-------------------------------------: | :---------------------------------: |
+| **Profile**  |  <img src="https://avatars.githubusercontent.com/u/116616569?v=4" width="100" height="100"/>   |  <img src="https://avatars.githubusercontent.com/u/69593799?v=4" width="100" height="100"/>  |    <img src="https://avatars.githubusercontent.com/u/122415844?v=4" width="100" height="100"/>     | <img src="https://avatars.githubusercontent.com/u/82428892?v=4" width="100" height="100"/>  |   <img src="https://avatars.githubusercontent.com/u/62701446?v=4" width="100" height="100"/>    | <img src="https://avatars.githubusercontent.com/u/122415763?v=4" width="100" height="100"/>  |
+| **Position** |          BackEnd <br> Infra           |          FrontEnd <br> Mobile           |           FrontEnd <br> Design           |        Frontend <br> AI         |            BackEnd <br> Mobile             |         Backend <br> AI         |
+|   **Git**    | [GitHub](https://github.com/stubborngastropod) | [GitHub](https://github.com/da010228) | [GitHub](https://github.com/sokurii) | [GitHub](https://github.com/emoving) | [GitHub](https://github.com/harinplz) | [GitHub](https://github.com/woodong27) |
 
 <br/>
-
-# 시연 시나리오
-
-### 회원가입, 로그인
-<img src="https://github.com/da010228/Scrooge/assets/69593799/c33b664e-c35f-4c9c-88ef-926cd68a3453" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/329c894f-b43d-4bde-a35e-4b61776febde" width="250px">
-  
-- 사용자는 닉네임, 이메일, 비밀번호 정보를 통해 `스크루지`에 가입
-- 가입 후 이메일, 비밀번호 입력 후 로그인을 통해 `스크루지` 서비스 이용을 시작
-
-<br/>
-
-### 메인 페이지 (홈 화면)
-
-<img src="https://github.com/da010228/Scrooge/assets/69593799/b637df2e-7e63-40e8-9b4b-e07d729a26f6" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/e4166a4e-d7fc-4868-a025-75205c5f08ae" width="250px">
-
-- 로그인 후 사용자의 정보(레벨, 닉네임, 메인 아바타, 메인 뱃지, 최대 스트릭, 상태 메시지) 조회
-- 정산 후 오늘의 소비 총 합 조회
-- 주간 목표 설정 후, 프로그레스 바, 이번 주 남은 금액을 통해 소비 현황 파악
-
-
-<br/>
-
-### 소비 내역 조회 화면
-
-<img src="https://github.com/da010228/Scrooge/assets/69593799/058dcd8c-5f96-465e-acda-21a20b46ca3e" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/d21d1e5a-d52a-44cd-8327-ab76a28f4f2c" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/9fc37e7b-4116-4ada-a3dc-8e92f41d116f" width="250px">
-
-- 삼성 페이 결제 후 알림 캐치를 통한 소비 내역 자동 저장
-- 사용자가 직접 소비 내역 추가 가능
-- 정산하기 버튼 클릭 후 카테고리 설정, 소비 내역 수정 가능
-- 정산 완료 후, 경험치를 얻고 오늘 소비 총 합 조회
-
-
-<br/>
-
-### 스크루지 빌리지 (커뮤니티)
-
-<img src="https://github.com/da010228/Scrooge/assets/69593799/587bbe65-0b8e-438d-be4b-76a16310c936" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/ff4fa8d5-a90a-47aa-92c2-cace76b6d47a" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/2cd6e82e-b0e1-4ae8-adc1-09a01ef9ba84" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/dfec673b-ca6a-449c-8c6e-39a17c20d1bc" width="250px">
-
-- 나의 소비 생활을 공유하는 커뮤니티인 `스크루지 빌리지`
-- 환호, 야유, 댓글 기능을 통해 다른 사용자와 소통 가능
-
-<br/>
-
-<img src="https://github.com/da010228/Scrooge/assets/69593799/c0601bad-3024-4b85-8fbd-0df81670a0dd" width="250px">
-
-- 다른 사용자의 아바타를 클릭하면 다른 사용자의 화면으로 넘어가 소비 패턴 비교 가능 
-
-
-<br/>
-
-### 스크루지 파이트 (챌린지)
-
-<img src="https://github.com/da010228/Scrooge/assets/69593799/13ab8b8d-18de-452f-8d4d-90844b013928" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/7ad7b97c-71ae-4917-b4d8-61e1c6a0cd80" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/cbd82ce9-ea41-42f6-8450-e79150e654a5" width="250px">
-
-- 사용자가 직접 도전 과제를 만들고 팀을 이루어 목표 달성률을 통해 팀 경쟁
-- 사용자는 직접 챌린지를 생성할 수 있고, 또 원하는 챌린지를 선택해 참여
-
-
-<br/>
-
-<img src="https://github.com/da010228/Scrooge/assets/69593799/e27695b9-0bf9-4342-bf37-017431e3de3c" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/c1f00a03-0a7d-4be6-964e-964592cc4427" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/eb09bdee-ee09-47b1-833a-7db7ba928f7c" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/e96d17f5-3e34-4823-975a-7533c86da4a7" width="250px">
-
-- 사용자는 참여한 챌린지를 매일 수행
-- 챌린지 인증을 위해 사용자는 매일 사진을 업로드하고, AI가 검증하여 성공/실패 여부 판단
-- 팀 채팅을 통해 같은 팀원끼리 인증 독려
-
-<br/>
-
-### 스크루지 드림 (퀘스트)
-
-<img src="https://github.com/da010228/Scrooge/assets/69593799/8792b989-5243-4ec2-a952-2284d36cfc60" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/2694a3dd-703d-4d55-aedf-3fde33a8a458" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/9336133f-e4dc-4162-8cb9-d05b9d4fb1a4" width="250px">
-
-- 매주 랜덤으로 제공되는 6개의 퀘스트 중 퀘스트 선택
-- 모달창을 통해 추가
-- 추가한 퀘스트는 모달창을 통해 진행 여부 확인 가능
-
-<br/>
-
-### 마이페이지
-
-<img src="https://github.com/da010228/Scrooge/assets/69593799/a0735ac0-57bb-43e1-b822-e41e9b305ad8" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/8f4af93f-95ae-46cb-8746-2c060676accb" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/835549a5-2ab9-4b25-8367-a31a03579b70" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/ae069ac6-07c2-467c-a10d-1007ee8d693f" width="250px">
-
-- 마이페이지에서 주간 소비 그래프, 월간 소비 달력을 통해 한 눈에 소비 내역 조회
-- 절약을 통해 얻은 경험치로 아바타 뽑기 가능
-- 업적 쌓기를 통한 뱃지 획득
-
-<br/>
-
-### 환경 설정
-
-<img src="https://github.com/da010228/Scrooge/assets/69593799/13d39412-c032-45cb-9884-4efe4cd0e681" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/2777dc7a-8cb4-4579-b27d-f78ffdc6fd40" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/603576a2-b146-44d8-915e-ace66258e34b" width="250px">
-<img src="https://github.com/da010228/Scrooge/assets/69593799/1d37c8c0-08ae-41a0-bff7-eca37c6ad941" width="250px">
-
-- 프로필 변경(닉네임, 상태메시지), 비밀번호 변경
-- 알림 설정을 통해 사용자가 지정한 시간에 스크루지 영감으로부터 알림 받기 가능
-
-
-<br/>
-
 
 ## ERD
 
@@ -261,7 +140,7 @@
  ┃ ┣ 📜gradlew
  ┃ ┣ 📜gradlew.bat
  ┃ ┣ 📜HELP.md
- ┃ ┗ 📜settings.gradle
+ ┗ ┗ 📜settings.gradle
 ```
 
 <br/>
@@ -296,6 +175,158 @@
 ```
 
 <br/>
+
+
+# 시연 시나리오
+
+### 회원가입, 로그인
+<img src="https://github.com/da010228/Scrooge/assets/69593799/c33b664e-c35f-4c9c-88ef-926cd68a3453" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/329c894f-b43d-4bde-a35e-4b61776febde" width="250px">
+  
+- 사용자는 닉네임, 이메일, 비밀번호 정보를 통해 `스크루지`에 가입
+- 가입 후 이메일, 비밀번호 입력 후 로그인을 통해 `스크루지` 서비스 이용을 시작
+
+<br/>
+
+### 메인 페이지 (홈 화면)
+
+<!-- <img src="https://github.com/harinplz/algorithm_study/assets/62701446/662b92d6-9714-4abc-960b-257d048f3713" width="250px"> -->
+<img src="https://github.com/harinplz/algorithm_study/assets/62701446/5066142e-4e47-46b8-8d97-54ce87f0de56" width="250px">
+<!-- <img src="https://github.com/da010228/Scrooge/assets/69593799/b637df2e-7e63-40e8-9b4b-e07d729a26f6" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/e4166a4e-d7fc-4868-a025-75205c5f08ae" width="250px"> -->
+
+- 로그인 후 사용자의 정보(레벨, 닉네임, 메인 아바타, 메인 뱃지, 최대 스트릭, 상태 메시지) 조회
+- 정산 후 오늘의 소비 총 합 조회
+- 주간 목표 설정 후, 프로그레스 바, 이번 주 남은 금액을 통해 소비 현황 파악
+
+
+<br/>
+
+### 소비 내역 조회 화면
+
+<img src="https://github.com/harinplz/algorithm_study/assets/62701446/e905033c-9f05-4764-9d7a-876de5d473a1" width="250px">
+<!-- <img src="https://github.com/da010228/Scrooge/assets/69593799/058dcd8c-5f96-465e-acda-21a20b46ca3e" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/d21d1e5a-d52a-44cd-8327-ab76a28f4f2c" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/9fc37e7b-4116-4ada-a3dc-8e92f41d116f" width="250px"> -->
+
+- 삼성 페이 결제 후 알림 캐치를 통한 소비 내역 자동 저장
+- 사용자가 직접 소비 내역 추가 가능
+- 정산하기 버튼 클릭 후 카테고리 설정, 소비 내역 수정 가능
+
+<br/>
+<img src="https://github.com/harinplz/algorithm_study/assets/62701446/5c774665-3413-4705-ab9a-53199200b229" width="250px">
+
+- 정산 완료 후, 경험치를 얻고 오늘 소비 총 합 조회
+
+
+<br/>
+
+### 스크루지 빌리지 (커뮤니티)
+- 나의 소비 생활을 공유하는 커뮤니티인 `스크루지 빌리지`
+
+<br/>
+
+<img src="https://github.com/harinplz/algorithm_study/assets/62701446/8aefc9db-4f42-4da3-8556-dfe9f3a84107" width="250px">
+<br/>
+
+- 글을 등록하여 자신의 소비 생활 공유 가능
+
+<br/>
+
+<img src="https://github.com/harinplz/algorithm_study/assets/62701446/08c3de15-dc30-49f4-ad49-21b7e57240aa" width="250px">
+
+- 환호, 야유, 댓글 기능을 통해 다른 사용자와 소통 가능
+- 다른 사용자의 아바타를 클릭하면 다른 사용자의 화면으로 넘어가 소비 패턴 비교 가능 
+
+<!-- <img src="https://github.com/da010228/Scrooge/assets/69593799/587bbe65-0b8e-438d-be4b-76a16310c936" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/ff4fa8d5-a90a-47aa-92c2-cace76b6d47a" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/2cd6e82e-b0e1-4ae8-adc1-09a01ef9ba84" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/dfec673b-ca6a-449c-8c6e-39a17c20d1bc" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/c0601bad-3024-4b85-8fbd-0df81670a0dd" width="250px"> -->
+
+
+
+
+<br/>
+
+### 스크루지 파이트 (챌린지)
+
+<img src="https://github.com/harinplz/algorithm_study/assets/62701446/fc522589-8e0f-4412-a9bb-5224987b7a05" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/13ab8b8d-18de-452f-8d4d-90844b013928" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/7ad7b97c-71ae-4917-b4d8-61e1c6a0cd80" width="250px">
+
+- 사용자가 직접 도전 과제를 만들고 팀을 이루어 목표 달성률을 통해 팀 경쟁
+- 사용자는 직접 챌린지를 생성할 수 있고, 또 원하는 챌린지를 선택해 참여
+- 팀 채팅을 통해 같은 팀원끼리 인증 독려
+
+<br/>
+
+<img src="https://github.com/harinplz/algorithm_study/assets/62701446/11a751e6-d4b6-464f-93f3-3035c72f735c" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/c1f00a03-0a7d-4be6-964e-964592cc4427" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/e96d17f5-3e34-4823-975a-7533c86da4a7" width="250px">
+
+- 사용자는 참여한 챌린지를 매일 수행
+- 챌린지 인증을 위해 사용자는 매일 사진을 업로드하고, AI가 검증하여 성공/실패 여부 판단
+
+<!--
+<img src="https://github.com/da010228/Scrooge/assets/69593799/cbd82ce9-ea41-42f6-8450-e79150e654a5" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/e27695b9-0bf9-4342-bf37-017431e3de3c" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/eb09bdee-ee09-47b1-833a-7db7ba928f7c" width="250px">
+-->
+
+<br/>
+
+### 스크루지 드림 (퀘스트)
+
+<img src="https://github.com/harinplz/algorithm_study/assets/62701446/331a6d42-d6d0-4c6c-9d58-59e45881598c" width="250px">
+
+<!--
+<img src="https://github.com/da010228/Scrooge/assets/69593799/8792b989-5243-4ec2-a952-2284d36cfc60" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/2694a3dd-703d-4d55-aedf-3fde33a8a458" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/9336133f-e4dc-4162-8cb9-d05b9d4fb1a4" width="250px">
+-->
+
+- 매주 랜덤으로 제공되는 6개의 퀘스트 중 퀘스트 선택
+- 모달창을 통해 추가
+- 추가한 퀘스트는 모달창을 통해 진행 여부 확인 가능
+
+<br/>
+
+### 마이페이지
+
+<img src="https://github.com/harinplz/algorithm_study/assets/62701446/7fda2a02-fab2-4601-a04e-6c9a58e7c945" width="250px">
+
+<!--
+<img src="https://github.com/da010228/Scrooge/assets/69593799/a0735ac0-57bb-43e1-b822-e41e9b305ad8" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/8f4af93f-95ae-46cb-8746-2c060676accb" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/835549a5-2ab9-4b25-8367-a31a03579b70" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/ae069ac6-07c2-467c-a10d-1007ee8d693f" width="250px">
+-->
+
+- 마이페이지에서 주간 소비 그래프, 월간 소비 달력을 통해 한 눈에 소비 내역 조회
+- 절약을 통해 얻은 경험치로 아바타 뽑기 가능
+- 업적 쌓기를 통한 뱃지 획득
+
+<br/>
+
+### 환경 설정
+
+<img src="https://github.com/harinplz/algorithm_study/assets/62701446/15137720-e2bb-4b75-b713-5e56e088ddb2" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/2777dc7a-8cb4-4579-b27d-f78ffdc6fd40" width="240px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/1d37c8c0-08ae-41a0-bff7-eca37c6ad941" width="235px">
+
+<!--
+<img src="https://github.com/da010228/Scrooge/assets/69593799/13d39412-c032-45cb-9884-4efe4cd0e681" width="250px">
+<img src="https://github.com/da010228/Scrooge/assets/69593799/603576a2-b146-44d8-915e-ace66258e34b" width="250px">
+-->
+
+- 프로필 변경(닉네임, 상태메시지), 비밀번호 변경
+- 알림 설정을 통해 사용자가 지정한 시간에 스크루지 영감으로부터 알림 받기 가능
+
+
+<br/>
+
+
 
 
 
