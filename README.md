@@ -65,7 +65,7 @@
 ### MOBILE
 - Kotlin
 - Retrofit
-- okHttp3
+- OkHttp3
 
 ### Infra
 - AWS EC2
