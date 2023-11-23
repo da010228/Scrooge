@@ -6,7 +6,7 @@
 "아끼는 재미가 없어!"  
 ```
 ## 그래서 등장한 스크루지
-![mockup](https://github.com/harinplz/Scrooge/assets/69593799/70568472-2d59-41f5-83d7-d8b53b0db9f4)
+![mockup](https://github.com/da010228/Scrooge/assets/69593799/fc9bc440-b3cc-4520-8347-6ebf7c9d6e44)
 
 - Gamification을 통해 소비습관을 개선하는 서비스
 - 스크루지 빌리지, 파이트, 드림과 같은 다양한 기능으로 경험치 획득 가능
